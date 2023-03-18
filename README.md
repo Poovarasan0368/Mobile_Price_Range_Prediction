@@ -66,9 +66,15 @@ The data contains information regarding mobile phone features, specifications et
 **We tried a variety of models, and the table above summarizes the results of one set of models. K-Nearest Neighbours and Random Forest Classifier has the best overall accuracy of 92 percent. The optimal accuracy for Hyperparameter tunned Random forest, Decision Tree, Gradient Boosting was 91 percent, 80 percent, and 89 percent respectively. However, we'll make K-Nearest Neighbours our best model because it provides good overall and individual class accuracy.**
 
 * From EDA, we can observe that there are four different price categories for Mobile phones. 
+
 * Almost the same number of components are present. 
+
 * Half of the phones have Bluetooth, and the other half don’t have Bluetooth 
+
 * As the price range grows, the battery gradually gets bigger. 
+
 * Ram's price range continuously rises as it moves from low to extremely high prices. 
-* Expensive phones are weight lesser compare to others 
+
+* Expensive phones are weight lesser compare to others.
+
 * The most important factors in determining the price range of a mobile phone were RAM, battery life, and pixels.
