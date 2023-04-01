@@ -77,4 +77,4 @@ The data contains information regarding mobile phone features, specifications et
 
 * Expensive phones are weight lesser compare to others.
 
-* The most important factors in determining the price range of a mobile phone were RAM, battery life, and pixels.
+* The most important factors in determining the price range of a mobile phone were RAM, battery life, and pixels. 
